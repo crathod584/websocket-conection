@@ -1,0 +1,22 @@
+.map-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: 30px;
+  }
+  
+  .map-frame {
+    border: 2px solid black;
+    height: 50%;
+    margin-top: 90px;
+  }
+  
+  #map {
+    height: 100%;
+  }
+   
+  /* drop down */
+  .claimRecord{width:200px;margin:0px 10px 22px 0px;}
+  .claimRecord{width:200px;margin:0px 10px 12px 0px;}
